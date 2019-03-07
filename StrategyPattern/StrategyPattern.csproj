@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DecoyDuck.cs" />
+    <Compile Remove="Duck.cs" />
+    <Compile Remove="FlyNoWay.cs" />
+    <Compile Remove="FlyWithWings.cs" />
+    <Compile Remove="IFlyBehavior.cs" />
+    <Compile Remove="IQuackBehavior.cs" />
+    <Compile Remove="MallardDuck.cs" />
+    <Compile Remove="ModelDuck.cs" />
+    <Compile Remove="Quack\Quack.cs" />
+    <Compile Remove="RedheadDuck.cs" />
+    <Compile Remove="RubberDuck.cs" />
+  </ItemGroup>
+
+</Project>
