@@ -1,4 +1,4 @@
-# DesignPatterns
+# DesignPatterns - Strategy
 C# Implementation of Examples from Head First Design Patterns
 This solution is an implementation of the Strategy Pattern using the Duck Simulator example from the book Head First Design Patterns.
 
